@@ -11,8 +11,8 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 524,
-    "timeDay": 514,
-    "timeWeek": 532,
+    "timeDay": 521,
+    "timeWeek": 533,
     "timeMonth": 524,
     "timeYear": 524,
     "dailyMinutesDown": {
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 180,
-    "timeDay": 96,
-    "timeWeek": 98,
-    "timeMonth": 180,
-    "timeYear": 180,
+    "time": 177,
+    "timeDay": 114,
+    "timeWeek": 101,
+    "timeMonth": 177,
+    "timeYear": 177,
     "dailyMinutesDown": {
       "2021-06-24": 8
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 184,
-    "timeDay": 91,
-    "timeWeek": 114,
-    "timeMonth": 184,
-    "timeYear": 184,
+    "time": 181,
+    "timeDay": 112,
+    "timeWeek": 106,
+    "timeMonth": 181,
+    "timeYear": 181,
     "dailyMinutesDown": {
       "2021-06-24": 17
     }
@@ -66,16 +66,16 @@
     "icon": "https://favicons.githubusercontent.com/stella.hs.vc",
     "slug": "search",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 250,
-    "timeDay": 181,
-    "timeWeek": 252,
-    "timeMonth": 250,
-    "timeYear": 250,
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 246,
+    "timeDay": 180,
+    "timeWeek": 255,
+    "timeMonth": 246,
+    "timeYear": 246,
     "dailyMinutesDown": {
       "2021-06-30": 23
     }
