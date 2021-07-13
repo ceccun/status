@@ -11,8 +11,8 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 524,
-    "timeDay": 521,
-    "timeWeek": 533,
+    "timeDay": 515,
+    "timeWeek": 529,
     "timeMonth": 524,
     "timeYear": 524,
     "dailyMinutesDown": {
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 177,
-    "timeDay": 114,
-    "timeWeek": 101,
-    "timeMonth": 177,
-    "timeYear": 177,
+    "time": 174,
+    "timeDay": 95,
+    "timeWeek": 99,
+    "timeMonth": 174,
+    "timeYear": 174,
     "dailyMinutesDown": {
       "2021-06-24": 8
     }
@@ -46,16 +46,16 @@
     "icon": "https://favicons.githubusercontent.com/ceccun.com",
     "slug": "front-end",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 181,
-    "timeDay": 112,
-    "timeWeek": 106,
-    "timeMonth": 181,
-    "timeYear": 181,
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 177,
+    "timeDay": 87,
+    "timeWeek": 107,
+    "timeMonth": 177,
+    "timeYear": 177,
     "dailyMinutesDown": {
       "2021-06-24": 17
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 246,
-    "timeDay": 180,
-    "timeWeek": 255,
-    "timeMonth": 246,
-    "timeYear": 246,
+    "time": 242,
+    "timeDay": 139,
+    "timeWeek": 254,
+    "timeMonth": 242,
+    "timeYear": 242,
     "dailyMinutesDown": {
       "2021-06-30": 23
     }
