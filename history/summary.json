@@ -27,18 +27,19 @@
     "url": "https://cdn.ceccun.com",
     "icon": "https://favicons.githubusercontent.com/cdn.ceccun.com",
     "slug": "cdn",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 147,
     "timeDay": 125,
     "timeWeek": 108,
     "timeMonth": 129,
     "timeYear": 147,
     "dailyMinutesDown": {
+      "2021-08-03": 3,
       "2021-06-24": 8
     }
   },
@@ -67,11 +68,11 @@
     "url": "https://stella.hs.vc",
     "icon": "https://favicons.githubusercontent.com/stella.hs.vc",
     "slug": "search",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 219,
     "timeDay": 231,
@@ -79,6 +80,7 @@
     "timeMonth": 205,
     "timeYear": 219,
     "dailyMinutesDown": {
+      "2021-08-03": 2,
       "2021-06-30": 23
     }
   }
