@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "97.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.66%",
+    "uptimeWeek": "94.75%",
     "uptimeMonth": "84.19%",
     "uptimeYear": "97.18%",
     "time": 915,
@@ -45,17 +45,17 @@
     "url": "https://cdn.ceccun.com",
     "icon": "https://favicons.githubusercontent.com/cdn.ceccun.com",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "27.65%",
+    "uptimeDay": "28.09%",
     "uptimeWeek": "69.96%",
-    "uptimeMonth": "91.55%",
+    "uptimeMonth": "91.60%",
     "uptimeYear": "98.83%",
-    "time": 253,
-    "timeDay": 307,
-    "timeWeek": 311,
+    "time": 254,
+    "timeDay": 309,
+    "timeWeek": 312,
     "timeMonth": 319,
-    "timeYear": 253,
+    "timeYear": 254,
     "dailyMinutesDown": {
       "2022-01-29": 505,
       "2022-01-28": 1029,
@@ -68,7 +68,7 @@
       "2022-01-21": 200,
       "2022-01-20": 225,
       "2022-01-19": 112,
-      "2022-01-18": 39
+      "2022-01-18": 19
     }
   },
   {
