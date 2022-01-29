@@ -6,7 +6,7 @@ sites:
   - name: API
     url: https://api.ceccun.com/cdynamic/captive
   - name: CDN
-    url: https://cdn.ceccun.com
+    url: https://cdn.ceccun.com/cdynamic/captive
   - name: Front-end
     url: https://ceccun.com
   - name: Search
