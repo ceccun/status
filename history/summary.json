@@ -4,7 +4,7 @@
     "url": "https://api.ceccun.com/cdynamic/captive",
     "icon": "https://favicons.githubusercontent.com/api.ceccun.com",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "96.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.73%",
@@ -16,6 +16,7 @@
     "timeMonth": 599,
     "timeYear": 698,
     "dailyMinutesDown": {
+      "2022-09-03": 0,
       "2022-09-01": 101,
       "2022-08-31": 26,
       "2022-08-09": 1207,
