@@ -1,7 +1,7 @@
 url: https://cdn.ceccun.com/cdynamic/captive
-status: up
-code: 200
-responseTime: 89
-lastUpdated: 2022-09-10T06:35:11.200Z
+status: down
+code: 502
+responseTime: 416
+lastUpdated: 2022-09-10T06:56:58.547Z
 startTime: Thu Jun 24 2021 10:41:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
