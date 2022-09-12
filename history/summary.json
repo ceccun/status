@@ -8,7 +8,7 @@
     "uptime": "94.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.18%",
+    "uptimeMonth": "70.16%",
     "uptimeYear": "92.97%",
     "time": 743,
     "timeDay": 513,
@@ -16,7 +16,7 @@
     "timeMonth": 498,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2022-09-12": 1368,
+      "2022-09-12": 1376,
       "2022-09-11": 1440,
       "2022-09-10": 1440,
       "2022-09-09": 1440,
@@ -77,16 +77,16 @@
     "url": "https://cdn.ceccun.com/cdynamic/captive",
     "icon": "https://favicons.githubusercontent.com/cdn.ceccun.com",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "41.37%",
+    "uptimeDay": "41.43%",
     "uptimeWeek": "40.32%",
-    "uptimeMonth": "85.29%",
-    "uptimeYear": "98.77%",
+    "uptimeMonth": "85.35%",
+    "uptimeYear": "98.78%",
     "time": 336,
-    "timeDay": 356,
+    "timeDay": 358,
     "timeWeek": 321,
-    "timeMonth": 511,
+    "timeMonth": 512,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2022-09-12": 789,
@@ -97,7 +97,7 @@
       "2022-09-07": 759,
       "2022-09-06": 434,
       "2022-09-05": 340,
-      "2022-09-04": 105
+      "2022-09-04": 78
     }
   },
   {
