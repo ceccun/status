@@ -5,10 +5,10 @@
     "icon": "https://favicons.githubusercontent.com/api.ceccun.com",
     "slug": "api",
     "status": "down",
-    "uptime": "94.14%",
+    "uptime": "94.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.90%",
+    "uptimeMonth": "68.83%",
     "uptimeYear": "92.86%",
     "time": 743,
     "timeDay": 659,
@@ -16,7 +16,7 @@
     "timeMonth": 505,
     "timeYear": 698,
     "dailyMinutesDown": {
-      "2022-09-13": 489,
+      "2022-09-13": 520,
       "2022-09-12": 1440,
       "2022-09-11": 1440,
       "2022-09-10": 1440,
@@ -78,15 +78,15 @@
     "url": "https://cdn.ceccun.com/cdynamic/captive",
     "icon": "https://favicons.githubusercontent.com/cdn.ceccun.com",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "42.82%",
+    "uptimeDay": "44.60%",
     "uptimeWeek": "38.93%",
-    "uptimeMonth": "84.84%",
-    "uptimeYear": "98.74%",
+    "uptimeMonth": "84.94%",
+    "uptimeYear": "98.75%",
     "time": 336,
-    "timeDay": 361,
-    "timeWeek": 321,
+    "timeDay": 383,
+    "timeWeek": 323,
     "timeMonth": 509,
     "timeYear": 350,
     "dailyMinutesDown": {
@@ -98,7 +98,7 @@
       "2022-09-08": 887,
       "2022-09-07": 759,
       "2022-09-06": 434,
-      "2022-09-05": 340
+      "2022-09-05": 294
     }
   },
   {
