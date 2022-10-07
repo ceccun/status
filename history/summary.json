@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ceccun.com.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "92.27%",
+    "uptime": "92.26%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "18.20%",
+    "uptimeWeek": "17.70%",
     "uptimeMonth": "47.40%",
-    "uptimeYear": "90.10%",
+    "uptimeYear": "90.09%",
     "time": 732,
     "timeDay": 498,
     "timeWeek": 564,
     "timeMonth": 512,
     "timeYear": 699,
     "dailyMinutesDown": {
-      "2022-10-07": 773,
+      "2022-10-07": 824,
       "2022-10-06": 1440,
       "2022-10-05": 1440,
       "2022-10-04": 1440,
@@ -97,7 +97,7 @@
     "time": 336,
     "timeDay": 348,
     "timeWeek": 365,
-    "timeMonth": 331,
+    "timeMonth": 330,
     "timeYear": 352,
     "dailyMinutesDown": {
       "2022-10-07": 318,
@@ -139,9 +139,9 @@
     "url": "https://stella.hs.vc",
     "icon": "https://icons.duckduckgo.com/ip3/stella.hs.vc.ico",
     "slug": "search",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
@@ -151,6 +151,7 @@
     "timeMonth": 405,
     "timeYear": 404,
     "dailyMinutesDown": {
+      "2022-10-07": 0,
       "2022-09-15": 83
     }
   }
