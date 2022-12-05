@@ -10,7 +10,7 @@ sites:
   - name: Front-end
     url: https://ceccun.com
   - name: Search
-    url: https://stella.hs.vc
+    url: https://bettersearch.ejaz4.repl.co/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
