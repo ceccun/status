@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "75.99%",
+    "uptimeYear": "75.98%",
     "time": 681,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2022-12-26": 2,
+      "2022-12-26": 47,
       "2022-12-25": 1440,
       "2022-12-24": 1440,
       "2022-12-23": 1440,
@@ -136,9 +136,9 @@
     "slug": "cdn",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "49.87%",
-    "uptimeWeek": "61.09%",
-    "uptimeMonth": "91.05%",
+    "uptimeDay": "53.56%",
+    "uptimeWeek": "60.74%",
+    "uptimeMonth": "90.97%",
     "uptimeYear": "99.25%",
     "time": 7490,
     "timeDay": 15482,
@@ -146,13 +146,12 @@
     "timeMonth": 15283,
     "timeYear": 7809,
     "dailyMinutesDown": {
-      "2022-12-26": 2,
-      "2022-12-25": 720,
+      "2022-12-25": 714,
       "2022-12-24": 578,
       "2022-12-23": 786,
       "2022-12-22": 717,
       "2022-12-21": 739,
-      "2022-12-20": 380
+      "2022-12-20": 423
     }
   },
   {
