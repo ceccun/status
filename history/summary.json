@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2023-03-22": 871,
+      "2023-03-22": 880,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
@@ -206,15 +206,15 @@
     "url": "https://cdn.ceccun.com/cdynamic/captive",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.ceccun.com.ico",
     "slug": "cdn",
-    "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "19.95%",
-    "uptimeWeek": "24.40%",
-    "uptimeMonth": "82.60%",
-    "uptimeYear": "98.55%",
-    "time": 12157,
-    "timeDay": 15497,
-    "timeWeek": 15505,
+    "status": "down",
+    "uptime": "99.19%",
+    "uptimeDay": "20.36%",
+    "uptimeWeek": "26.18%",
+    "uptimeMonth": "83.01%",
+    "uptimeYear": "98.58%",
+    "time": 12159,
+    "timeDay": 15505,
+    "timeWeek": 15506,
     "timeMonth": 15500,
     "timeYear": 12425,
     "dailyMinutesDown": {
@@ -224,8 +224,7 @@
       "2023-03-19": 1170,
       "2023-03-18": 1154,
       "2023-03-17": 1184,
-      "2023-03-16": 1163,
-      "2023-03-15": 1
+      "2023-03-16": 984
     }
   },
   {
