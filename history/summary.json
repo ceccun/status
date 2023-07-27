@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2023-07-27": 32,
+      "2023-07-27": 44,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
@@ -322,7 +322,7 @@
     "slug": "cdn",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "11.42%",
+    "uptimeDay": "12.27%",
     "uptimeWeek": "18.20%",
     "uptimeMonth": "80.17%",
     "uptimeYear": "98.35%",
