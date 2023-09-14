@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ceccun.com.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "56.75%",
+    "uptime": "56.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 379,
     "timeYear": 566,
     "dailyMinutesDown": {
-      "2023-09-13": 1434,
+      "2023-09-14": 39,
+      "2023-09-13": 1440,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
@@ -340,8 +341,7 @@
       "2022-10-01": 272,
       "2022-09-17": 1168,
       "2022-09-16": 1440,
-      "2022-09-15": 1440,
-      "2022-09-14": 1440
+      "2022-09-15": 1440
     }
   },
   {
@@ -351,7 +351,7 @@
     "slug": "cdn",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "17.84%",
+    "uptimeDay": "20.93%",
     "uptimeWeek": "21.29%",
     "uptimeMonth": "81.89%",
     "uptimeYear": "98.49%",
