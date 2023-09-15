@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ceccun.com.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "56.68%",
+    "uptime": "56.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 377,
     "timeYear": 565,
     "dailyMinutesDown": {
-      "2023-09-14": 1413,
+      "2023-09-15": 39,
+      "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
@@ -340,8 +341,7 @@
       "2022-10-02": 1440,
       "2022-10-01": 272,
       "2022-09-17": 1168,
-      "2022-09-16": 1440,
-      "2022-09-15": 1440
+      "2022-09-16": 1440
     }
   },
   {
@@ -350,18 +350,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.ceccun.com.ico",
     "slug": "cdn",
     "status": "down",
-    "uptime": "99.32%",
-    "uptimeDay": "23.74%",
-    "uptimeWeek": "21.00%",
-    "uptimeMonth": "81.82%",
-    "uptimeYear": "98.48%",
+    "uptime": "99.31%",
+    "uptimeDay": "20.61%",
+    "uptimeWeek": "20.34%",
+    "uptimeMonth": "81.67%",
+    "uptimeYear": "98.47%",
     "time": 12770,
-    "timeDay": 340,
+    "timeDay": 341,
     "timeWeek": 377,
     "timeMonth": 478,
     "timeYear": 12896,
     "dailyMinutesDown": {
-      "2023-09-14": 1077,
+      "2023-09-15": 39,
+      "2023-09-14": 1103,
       "2023-09-13": 1176,
       "2023-09-12": 1260,
       "2023-09-11": 1143,
@@ -386,9 +387,7 @@
     "timeWeek": 134,
     "timeMonth": 115,
     "timeYear": 117,
-    "dailyMinutesDown": {
-      "2022-09-15": 84
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Search",
@@ -396,7 +395,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bettersearch.ejaz4.repl.co.ico",
     "slug": "search",
     "status": "up",
-    "uptime": "97.05%",
+    "uptime": "97.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -485,8 +484,7 @@
       "2022-10-10": 1440,
       "2022-10-09": 1440,
       "2022-10-08": 1440,
-      "2022-10-07": 616,
-      "2022-09-15": 83
+      "2022-10-07": 616
     }
   }
 ]
