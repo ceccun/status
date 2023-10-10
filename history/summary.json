@@ -16,7 +16,7 @@
     "timeMonth": 499,
     "timeYear": 568,
     "dailyMinutesDown": {
-      "2023-10-10": 344,
+      "2023-10-10": 352,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
@@ -364,13 +364,13 @@
     "slug": "cdn",
     "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "21.45%",
-    "uptimeWeek": "19.46%",
-    "uptimeMonth": "81.47%",
+    "uptimeDay": "21.99%",
+    "uptimeWeek": "19.95%",
+    "uptimeMonth": "81.58%",
     "uptimeYear": "98.46%",
     "time": 12220,
-    "timeDay": 351,
-    "timeWeek": 462,
+    "timeDay": 350,
+    "timeWeek": 461,
     "timeMonth": 375,
     "timeYear": 12353,
     "dailyMinutesDown": {
@@ -381,7 +381,7 @@
       "2023-10-06": 1224,
       "2023-10-05": 1106,
       "2023-10-04": 1151,
-      "2023-10-03": 696
+      "2023-10-03": 647
     }
   },
   {
