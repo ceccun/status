@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ceccun.com.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "54.05%",
+    "uptime": "54.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 315,
     "timeYear": 534,
     "dailyMinutesDown": {
-      "2023-10-24": 810,
+      "2023-10-24": 818,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
@@ -371,17 +371,17 @@
     "url": "https://cdn.ceccun.com/cdynamic/captive",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.ceccun.com.ico",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "24.74%",
-    "uptimeWeek": "30.08%",
-    "uptimeMonth": "83.91%",
+    "uptimeDay": "24.94%",
+    "uptimeWeek": "30.24%",
+    "uptimeMonth": "83.95%",
     "uptimeYear": "98.66%",
     "time": 11874,
     "timeDay": 225,
     "timeWeek": 205,
     "timeMonth": 318,
-    "timeYear": 12033,
+    "timeYear": 12032,
     "dailyMinutesDown": {
       "2023-10-24": 615,
       "2023-10-23": 1053,
@@ -389,7 +389,7 @@
       "2023-10-21": 1171,
       "2023-10-20": 1139,
       "2023-10-19": 1217,
-      "2023-10-18": 611
+      "2023-10-18": 595
     }
   },
   {
