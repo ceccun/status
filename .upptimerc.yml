@@ -3,14 +3,14 @@ owner: stel-la # Your GitHub organization or username, where this repository liv
 repo: status # The name of this repository
 
 sites:
-  - name: API
-    url: https://api.ceccun.com/cdynamic/captive
-  - name: CDN
-    url: https://cdn.ceccun.com/cdynamic/captive
-  - name: Front-end
+  - name: Ceccun
     url: https://ceccun.com
-  - name: Search
-    url: https://bettersearch.ejaz4.repl.co/
+  - name: Zen Platform
+    url: https://harmoni.zen-platform.ceccun.com
+  - name: Stella Search
+    url: https://stella.hs.vc/
+  - name: Experiments
+    url: http://insecure.psychic-couscous.labs.ceccun.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
