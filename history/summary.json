@@ -22,19 +22,19 @@
     "url": "https://harmoni.zen-platform.ceccun.com",
     "icon": "https://icons.duckduckgo.com/ip3/harmoni.zen-platform.ceccun.com.ico",
     "slug": "zen-platform",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 378,
-    "timeDay": 388,
-    "timeWeek": 370,
-    "timeMonth": 378,
-    "timeYear": 378,
+    "status": "up",
+    "uptime": "96.58%",
+    "uptimeDay": "65.74%",
+    "uptimeWeek": "95.11%",
+    "uptimeMonth": "96.58%",
+    "uptimeYear": "96.58%",
+    "time": 453,
+    "timeDay": 833,
+    "timeWeek": 484,
+    "timeMonth": 453,
+    "timeYear": 453,
     "dailyMinutesDown": {
-      "2024-04-30": 1
+      "2024-04-30": 493
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "http://insecure.psychic-couscous.labs.ceccun.com/",
     "icon": "https://icons.duckduckgo.com/ip3/insecure.psychic-couscous.labs.ceccun.com.ico",
     "slug": "experiments",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 254,
-    "timeDay": 224,
-    "timeWeek": 246,
-    "timeMonth": 254,
-    "timeYear": 254,
+    "status": "up",
+    "uptime": "96.58%",
+    "uptimeDay": "65.77%",
+    "uptimeWeek": "95.11%",
+    "uptimeMonth": "96.58%",
+    "uptimeYear": "96.58%",
+    "time": 264,
+    "timeDay": 303,
+    "timeWeek": 263,
+    "timeMonth": 264,
+    "timeYear": 264,
     "dailyMinutesDown": {
-      "2024-04-30": 0
+      "2024-04-30": 493
     }
   }
 ]
