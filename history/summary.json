@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 173,
-    "timeWeek": 124,
-    "timeMonth": 139,
+    "timeDay": 152,
+    "timeWeek": 121,
+    "timeMonth": 142,
     "timeYear": 140,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/uowbo.ceccun.com.ico",
     "slug": "zen-platform",
     "status": "up",
-    "uptime": "94.78%",
+    "uptime": "94.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "98.43%",
     "uptimeYear": "94.66%",
     "time": 461,
-    "timeDay": 574,
-    "timeWeek": 479,
-    "timeMonth": 502,
+    "timeDay": 449,
+    "timeWeek": 474,
+    "timeMonth": 501,
     "timeYear": 463,
     "dailyMinutesDown": {
       "2025-04-23": 34,
@@ -69,8 +69,7 @@
       "2024-07-12": 15,
       "2024-06-07": 1132,
       "2024-06-06": 270,
-      "2024-05-02": 392,
-      "2024-04-30": 493
+      "2024-05-02": 392
     }
   },
   {
@@ -85,9 +84,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 454,
-    "timeDay": 344,
+    "timeDay": 307,
     "timeWeek": 480,
-    "timeMonth": 420,
+    "timeMonth": 425,
     "timeYear": 421,
     "dailyMinutesDown": {}
   },
@@ -97,15 +96,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/insecure.psychic-couscous.labs.ceccun.com.ico",
     "slug": "experiments",
     "status": "up",
-    "uptime": "87.28%",
-    "uptimeDay": "4.64%",
-    "uptimeWeek": "0.66%",
-    "uptimeMonth": "0.00%",
+    "uptime": "87.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "14.95%",
+    "uptimeMonth": "1.53%",
     "uptimeYear": "86.99%",
     "time": 280,
-    "timeDay": 366,
-    "timeWeek": 315,
-    "timeMonth": 322,
+    "timeDay": 397,
+    "timeWeek": 325,
+    "timeMonth": 326,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2025-04-28": 1435,
@@ -161,8 +160,7 @@
       "2024-09-03": 440,
       "2024-06-07": 1100,
       "2024-06-06": 270,
-      "2024-05-02": 391,
-      "2024-04-30": 493
+      "2024-05-02": 391
     }
   }
 ]
