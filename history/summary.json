@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 154,
-    "timeDay": 45,
-    "timeWeek": 157,
-    "timeMonth": 158,
+    "timeDay": 135,
+    "timeWeek": 156,
+    "timeMonth": 157,
     "timeYear": 165,
     "dailyMinutesDown": {}
   },
@@ -27,11 +27,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "94.99%",
+    "uptimeYear": "95.08%",
     "time": 475,
-    "timeDay": 472,
-    "timeWeek": 520,
-    "timeMonth": 613,
+    "timeDay": 386,
+    "timeWeek": 513,
+    "timeMonth": 606,
     "timeYear": 493,
     "dailyMinutesDown": {
       "2025-08-08": 113,
@@ -67,8 +67,7 @@
       "2024-11-08": 1247,
       "2024-10-10": 15,
       "2024-09-06": 1362,
-      "2024-09-05": 1440,
-      "2024-09-04": 1440
+      "2024-09-05": 1440
     }
   },
   {
@@ -82,11 +81,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 463,
-    "timeDay": 480,
-    "timeWeek": 412,
-    "timeMonth": 802,
-    "timeYear": 451,
+    "time": 473,
+    "timeDay": 5060,
+    "timeWeek": 1119,
+    "timeMonth": 956,
+    "timeYear": 464,
     "dailyMinutesDown": {}
   },
   {
@@ -95,15 +94,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/insecure.psychic-couscous.labs.ceccun.com.ico",
     "slug": "experiments",
     "status": "up",
-    "uptime": "90.43%",
+    "uptime": "90.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "87.31%",
+    "uptimeYear": "87.41%",
     "time": 302,
-    "timeDay": 289,
-    "timeWeek": 344,
-    "timeMonth": 454,
+    "timeDay": 305,
+    "timeWeek": 343,
+    "timeMonth": 451,
     "timeYear": 309,
     "dailyMinutesDown": {
       "2025-08-08": 113,
@@ -156,8 +155,7 @@
       "2024-11-25": 381,
       "2024-11-16": 67,
       "2024-09-06": 1362,
-      "2024-09-05": 1440,
-      "2024-09-04": 1440
+      "2024-09-05": 1440
     }
   }
 ]
