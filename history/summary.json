@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 154,
-    "timeDay": 135,
-    "timeWeek": 156,
-    "timeMonth": 157,
+    "timeDay": 205,
+    "timeWeek": 164,
+    "timeMonth": 156,
     "timeYear": 165,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/uowbo.ceccun.com.ico",
     "slug": "zen-platform",
     "status": "up",
-    "uptime": "96.03%",
+    "uptime": "96.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "95.08%",
+    "uptimeYear": "95.36%",
     "time": 475,
-    "timeDay": 386,
-    "timeWeek": 513,
-    "timeMonth": 606,
+    "timeDay": 496,
+    "timeWeek": 492,
+    "timeMonth": 604,
     "timeYear": 493,
     "dailyMinutesDown": {
       "2025-08-08": 113,
@@ -66,8 +66,7 @@
       "2024-11-09": 1440,
       "2024-11-08": 1247,
       "2024-10-10": 15,
-      "2024-09-06": 1362,
-      "2024-09-05": 1440
+      "2024-09-06": 1362
     }
   },
   {
@@ -81,9 +80,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 473,
-    "timeDay": 5060,
-    "timeWeek": 1119,
+    "time": 466,
+    "timeDay": 319,
+    "timeWeek": 1113,
     "timeMonth": 956,
     "timeYear": 464,
     "dailyMinutesDown": {}
@@ -94,15 +93,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/insecure.psychic-couscous.labs.ceccun.com.ico",
     "slug": "experiments",
     "status": "up",
-    "uptime": "90.45%",
+    "uptime": "90.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "87.41%",
+    "uptimeYear": "87.68%",
     "time": 302,
-    "timeDay": 305,
-    "timeWeek": 343,
-    "timeMonth": 451,
+    "timeDay": 365,
+    "timeWeek": 333,
+    "timeMonth": 450,
     "timeYear": 309,
     "dailyMinutesDown": {
       "2025-08-08": 113,
@@ -154,8 +153,7 @@
       "2024-12-20": 788,
       "2024-11-25": 381,
       "2024-11-16": 67,
-      "2024-09-06": 1362,
-      "2024-09-05": 1440
+      "2024-09-06": 1362
     }
   }
 ]
