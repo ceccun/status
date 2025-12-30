@@ -63,18 +63,20 @@
     "url": "https://stella.hs.vc/",
     "icon": "https://icons.duckduckgo.com/ip3/stella.hs.vc.ico",
     "slug": "stella-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 472,
+    "time": 473,
     "timeDay": 437,
     "timeWeek": 337,
     "timeMonth": 329,
     "timeYear": 468,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-30": 0
+    }
   },
   {
     "name": "Experiments",
@@ -82,7 +84,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/insecure.psychic-couscous.labs.ceccun.com.ico",
     "slug": "experiments",
     "status": "up",
-    "uptime": "91.29%",
+    "uptime": "91.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "83.98%",
