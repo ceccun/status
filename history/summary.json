@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 113,
-    "timeWeek": 168,
+    "time": 169,
+    "timeDay": 124,
+    "timeWeek": 155,
     "timeMonth": 165,
     "timeYear": 173,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "88.92%",
     "uptimeYear": "96.50%",
-    "time": 561,
-    "timeDay": 444,
-    "timeWeek": 553,
-    "timeMonth": 1098,
-    "timeYear": 591,
+    "time": 562,
+    "timeDay": 779,
+    "timeWeek": 578,
+    "timeMonth": 1108,
+    "timeYear": 592,
     "dailyMinutesDown": {
       "2026-03-14": 96,
       "2026-03-03": 103,
@@ -80,9 +80,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.04%",
     "time": 495,
-    "timeDay": 2120,
-    "timeWeek": 557,
-    "timeMonth": 525,
+    "timeDay": 231,
+    "timeWeek": 546,
+    "timeMonth": 528,
     "timeYear": 532,
     "dailyMinutesDown": {
       "2026-01-03": 148,
@@ -98,14 +98,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/insecure.psychic-couscous.labs.ceccun.com.ico",
     "slug": "experiments",
     "status": "up",
-    "uptime": "91.98%",
+    "uptime": "91.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "87.24%",
+    "uptimeYear": "87.51%",
     "time": 346,
-    "timeDay": 316,
-    "timeWeek": 348,
+    "timeDay": 305,
+    "timeWeek": 340,
     "timeMonth": 339,
     "timeYear": 360,
     "dailyMinutesDown": {
@@ -160,8 +160,7 @@
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
-      "2025-03-24": 1440,
-      "2025-03-23": 1440
+      "2025-03-24": 1440
     }
   }
 ]
