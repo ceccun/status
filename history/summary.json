@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 109,
-    "timeWeek": 107,
-    "timeMonth": 157,
-    "timeYear": 173,
+    "time": 169,
+    "timeDay": 266,
+    "timeWeek": 137,
+    "timeMonth": 160,
+    "timeYear": 174,
     "dailyMinutesDown": {}
   },
   {
@@ -24,14 +24,14 @@
     "slug": "zen-platform",
     "status": "up",
     "uptime": "95.50%",
-    "uptimeDay": "95.80%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.70%",
     "uptimeMonth": "91.72%",
     "uptimeYear": "96.46%",
     "time": 563,
-    "timeDay": 460,
+    "timeDay": 497,
     "timeWeek": 489,
-    "timeMonth": 918,
+    "timeMonth": 906,
     "timeYear": 593,
     "dailyMinutesDown": {
       "2026-03-29": 172,
@@ -65,8 +65,7 @@
       "2025-05-04": 16,
       "2025-04-23": 34,
       "2025-04-19": 600,
-      "2025-04-02": 36,
-      "2025-03-31": 17
+      "2025-04-02": 36
     }
   },
   {
@@ -75,15 +74,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/stella.hs.vc.ico",
     "slug": "stella-search",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.04%",
     "time": 503,
-    "timeDay": 112,
-    "timeWeek": 841,
-    "timeMonth": 572,
+    "timeDay": 118,
+    "timeWeek": 830,
+    "timeMonth": 557,
     "timeYear": 544,
     "dailyMinutesDown": {
       "2026-01-03": 148,
@@ -99,15 +98,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/insecure.psychic-couscous.labs.ceccun.com.ico",
     "slug": "experiments",
     "status": "up",
-    "uptime": "92.05%",
-    "uptimeDay": "95.80%",
+    "uptime": "92.06%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.70%",
     "uptimeMonth": "99.25%",
-    "uptimeYear": "89.39%",
+    "uptimeYear": "89.66%",
     "time": 346,
-    "timeDay": 290,
+    "timeDay": 265,
     "timeWeek": 282,
-    "timeMonth": 329,
+    "timeMonth": 327,
     "timeYear": 360,
     "dailyMinutesDown": {
       "2026-03-29": 172,
@@ -155,8 +154,7 @@
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
-      "2025-04-01": 1440,
-      "2025-03-31": 1440
+      "2025-04-01": 1440
     }
   }
 ]
