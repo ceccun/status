@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 156,
-    "timeWeek": 128,
+    "timeDay": 170,
+    "timeWeek": 129,
     "timeMonth": 152,
     "timeYear": 173,
     "dailyMinutesDown": {}
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/uowbo.ceccun.com.ico",
     "slug": "zen-platform",
     "status": "down",
-    "uptime": "95.81%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "96.57%",
+    "uptime": "95.76%",
+    "uptimeDay": "60.58%",
+    "uptimeWeek": "94.37%",
+    "uptimeMonth": "98.53%",
+    "uptimeYear": "96.46%",
     "time": 569,
-    "timeDay": 579,
-    "timeWeek": 511,
-    "timeMonth": 532,
-    "timeYear": 605,
+    "timeDay": 0,
+    "timeWeek": 515,
+    "timeMonth": 523,
+    "timeYear": 606,
     "dailyMinutesDown": {
       "2025-06-25": 434,
       "2025-08-08": 113,
@@ -63,7 +63,8 @@
       "2026-03-28": 60,
       "2026-04-24": 89,
       "2026-04-26": 75,
-      "2026-05-24": 1
+      "2026-05-25": 165,
+      "2026-05-24": 402
     }
   },
   {
@@ -72,16 +73,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stella.hs.vc.ico",
     "slug": "stella-search",
     "status": "down",
-    "uptime": "94.28%",
-    "uptimeDay": "91.78%",
+    "uptime": "94.23%",
+    "uptimeDay": "52.40%",
     "uptimeWeek": "18.92%",
     "uptimeMonth": "5.74%",
-    "uptimeYear": "88.02%",
-    "time": 503,
-    "timeDay": 153,
-    "timeWeek": 184,
-    "timeMonth": 184,
-    "timeYear": 569,
+    "uptimeYear": "87.91%",
+    "time": 502,
+    "timeDay": 70,
+    "timeWeek": 153,
+    "timeMonth": 153,
+    "timeYear": 568,
     "dailyMinutesDown": {
       "2026-01-03": 148,
       "2026-01-02": 1440,
@@ -129,7 +130,8 @@
       "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1172,
-      "2026-05-24": 118
+      "2026-05-25": 165,
+      "2026-05-24": 520
     }
   },
   {
@@ -138,15 +140,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/insecure.psychic-couscous.labs.ceccun.com.ico",
     "slug": "experiments",
     "status": "down",
-    "uptime": "92.62%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "97.57%",
+    "uptime": "92.57%",
+    "uptimeDay": "60.61%",
+    "uptimeWeek": "94.37%",
+    "uptimeMonth": "98.53%",
+    "uptimeYear": "97.46%",
     "time": 353,
-    "timeDay": 356,
-    "timeWeek": 299,
-    "timeMonth": 334,
+    "timeDay": 0,
+    "timeWeek": 301,
+    "timeMonth": 335,
     "timeYear": 360,
     "dailyMinutesDown": {
       "2025-06-25": 433,
@@ -168,7 +170,8 @@
       "2026-03-29": 172,
       "2026-03-28": 59,
       "2026-04-26": 75,
-      "2026-05-24": 0
+      "2026-05-25": 165,
+      "2026-05-24": 402
     }
   }
 ]
