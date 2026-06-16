@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/uowbo.ceccun.com.ico",
     "slug": "zen-platform",
     "status": "down",
-    "uptime": "95.78%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "96.14%",
-    "uptimeYear": "96.25%",
+    "uptime": "95.77%",
+    "uptimeDay": "92.94%",
+    "uptimeWeek": "97.75%",
+    "uptimeMonth": "95.91%",
+    "uptimeYear": "96.23%",
     "time": 580,
     "timeDay": 0,
     "timeWeek": 480,
@@ -68,7 +68,7 @@
       "2026-06-03": 225,
       "2026-06-08": 109,
       "2026-06-12": 125,
-      "2026-06-16": 1
+      "2026-06-16": 102
     }
   },
   {
@@ -77,11 +77,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/stella.hs.vc.ico",
     "slug": "stella-search",
     "status": "down",
-    "uptime": "91.60%",
+    "uptime": "91.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "2.45%",
-    "uptimeYear": "81.90%",
+    "uptimeYear": "81.88%",
     "time": 489,
     "timeDay": 12,
     "timeWeek": 44,
@@ -134,7 +134,7 @@
       "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1172,
-      "2026-06-16": 103,
+      "2026-06-16": 204,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
@@ -166,11 +166,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/insecure.psychic-couscous.labs.ceccun.com.ico",
     "slug": "experiments",
     "status": "down",
-    "uptime": "92.72%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.19%",
-    "uptimeYear": "97.33%",
+    "uptime": "92.71%",
+    "uptimeDay": "92.96%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "96.96%",
+    "uptimeYear": "97.31%",
     "time": 353,
     "timeDay": 0,
     "timeWeek": 306,
@@ -198,7 +198,7 @@
       "2026-04-26": 75,
       "2026-05-25": 830,
       "2026-05-24": 402,
-      "2026-06-16": 0
+      "2026-06-16": 101
     }
   }
 ]
