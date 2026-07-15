@@ -22,13 +22,13 @@
     "url": "https://uowbo.ceccun.com",
     "icon": "https://icons.duckduckgo.com/ip3/uowbo.ceccun.com.ico",
     "slug": "zen-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "94.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "53.90%",
     "uptimeYear": "92.49%",
-    "time": 656,
+    "time": 657,
     "timeDay": 486,
     "timeWeek": 589,
     "timeMonth": 1812,
@@ -81,7 +81,8 @@
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
-      "2026-06-20": 538
+      "2026-06-20": 538,
+      "2026-07-15": 1
     }
   },
   {
@@ -90,11 +91,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/stella.hs.vc.ico",
     "slug": "stella-search",
     "status": "down",
-    "uptime": "88.34%",
+    "uptime": "88.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "73.95%",
+    "uptimeYear": "73.84%",
     "time": 465,
     "timeDay": 21,
     "timeWeek": 38,
@@ -147,7 +148,7 @@
       "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1172,
-      "2026-07-15": 106,
+      "2026-07-15": 714,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
@@ -207,9 +208,9 @@
     "url": "http://insecure.psychic-couscous.labs.ceccun.com/",
     "icon": "https://icons.duckduckgo.com/ip3/insecure.psychic-couscous.labs.ceccun.com.ico",
     "slug": "experiments",
-    "status": "up",
+    "status": "down",
     "uptime": "92.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.83%",
     "uptimeYear": "97.24%",
@@ -239,7 +240,8 @@
       "2026-04-26": 75,
       "2026-05-25": 830,
       "2026-05-24": 402,
-      "2026-06-16": 950
+      "2026-06-16": 950,
+      "2026-07-15": 0
     }
   }
 ]
